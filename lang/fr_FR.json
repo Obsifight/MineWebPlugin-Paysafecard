@@ -1,0 +1,20 @@
+{
+  "PAYSAFECARD__AMOUNT": "Montant",
+  "PAYSAFECARD__CURRENCY": "Monnaie",
+  "PAYSAFECARD__PAY_BTN": "Payer avec paysafecard",
+  "PAYSAFECARD__FAILURE_TITLE": "Erreur lors de la transaction",
+  "PAYSAFECARD__FAILURE_CONTENT": "La transaction n'a pas pu être initialisée à cause de problèmes de connexions. Si le problème persiste, contactez notre support.",
+  "PAYSAFECARD__SUCCESS_TITLE": "Transaction effectuée avec succès !",
+  "PAYSAFECARD__SUCCESS_CONTENT": "Vous avez bien été crédité pour votre paiement sur paysafecard !",
+  "PAYSAFECARD__ADMIN_TITLE": "Paysafecard Officiel",
+  "PAYSAFECARD__ADMIN_CONFIG": "Configuration",
+  "PAYSAFECARD__ADMIN_CONFIG_SAVED": "Configuration enregistrée avec succès !",
+  "PAYSAFECARD__ADMIN_CONFIG_API_KEY": "Clé API (API key)",
+  "PAYSAFECARD__ADMIN_CONFIG_API_ENV": "Environment de l'API",
+  "PAYSAFECARD__ADMIN_CONFIG_API_ENV_PRODUCTION": "Production",
+  "PAYSAFECARD__ADMIN_CONFIG_API_ENV_TEST": "Test",
+  "PAYSAFECARD__ADMIN_CONFIG_CURRENCY": "Monnaie de paiement",
+  "PAYSAFECARD__ADMIN_CONFIG_DEFAULT_CREDITS_GIVED_FOR_1_AS_AMOUNT": "{MONEY_NAME} crédités pour un montant de 1.",
+  "PAYSAFECARD__HISTORY_PAYMENT_ID": "ID de la transaction",
+  "NOTIFICATION__PAYSAFECARD_CREDITED": "Vous avez reçu {CREDITS} {MONEY_NAME} pour votre PaySafeCard de {AMOUNT}."
+}
